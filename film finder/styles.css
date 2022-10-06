@@ -1,0 +1,43 @@
+
+img {
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(211, 211, 211);
+  border-radius: 5px;
+  height: 350px;
+  width: 250px;
+  overflow: hidden;
+  margin: 5px;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  display: inline;
+}
+
+nav {
+  color: rgba(0, 0, 0, 0.85);
+  padding: 10px;
+  text-align: center;
+  margin: 10px;
+}
+
+main {
+  border: 1px solid rgb(211, 211, 211);
+  min-height: 700px;
+  border-radius: 5px;
+}
+
+h1 {
+  padding: 10px;
+  text-align: center;
+}
+
+.container {
+  margin: 0 auto;
+  width: 1130px;
+ 
+}/*# sourceMappingURL=styles.css.map */
